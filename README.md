@@ -7,7 +7,7 @@ A simple API to manage todo lists built with Laravel.
 
 1. Clone the repo locally:
     ```sh
-    git clone git@github.com:ishanvyas22/laravel-todo-list-api.git
+    git clone https://github.com/andrei-klyui/test.git
     cd laravel-todo-list-api
     ```
 
